@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 159, 70);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+script{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.logo{
+    text-align: center;
+    
+
+}
+
+#avatarImage img{
+    width: 30%;
+    height: 300px;
+}
+
+
+
+
+#refresh{
+    color:white;
+    background-color: orangered;
+    border-radius: 13%;
+    border: none;
+    width: 60px;
+    height: 25px;
+}
+#addContact{
+    color:white;
+    background-color: orangered;
+    border-radius: 13%;
+    border: none;
+    width: 90px;
+    height: 25px;
+}
+#homeLink{
+    color:white;
+    background-color: orangered;
+    border-radius: 13%;
+    border: none;
+    width: 60px;
+    height: 25px;
+}
+
+#editContact{
+    color:white;
+    background-color: orangered;
+    border-radius: 13%;
+    border: none;
+    width: 60px;
+    height: 25px;
+}
+
+#deleteContact{
+    color:white;
+    background-color: orangered;
+    border-radius: 13%;
+    border: none;
+    width: 60px;
+    height: 25px;
+}
